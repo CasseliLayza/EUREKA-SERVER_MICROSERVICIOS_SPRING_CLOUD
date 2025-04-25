@@ -9,5 +9,6 @@ __________                          ___                         ____
  MM        MM    MM  MM     MM       MMPYM.   MM'   MM              MM MM       MM        `Mbd'   MM       MM
  MM      / YM.   MM  MM     YM    d9 MM  YM.  MM.  ,MM        L    ,M9 YM    d9 MM         YMP    YM    d9 MM
 _MMMMMMMMM  YMMM9MM__MM_     YMMMM9 _MM_  YM._`YMMM9'Yb.      MYMMMM9   YMMMM9 _MM_         M      YMMMM9 _MM_
+
 ${application.title} ${application.version}
 Powered by Spring Boot ${spring-boot.version}
